@@ -1,0 +1,45 @@
+.page_4{
+    display: none;
+    position: relative;
+    width: 422px;
+    height: 792px;
+    background: linear-gradient(176.27deg, #55FFB8 43.28%, #FF00E5 96.94%);
+}
+.text_2{
+    position: absolute;
+    width: 165px;
+    height: 132px;
+    left: 128px;
+    top: 124px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+}
+.text_3{
+    position: absolute;
+    width: 243px;
+    height: 125px;
+    left: 128px;
+    top: 451px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    transform: rotate(-63deg);
+}
+.butP4{
+    background: transparent;
+}
+.star{
+    position: absolute;
+    width: 115px;
+    height: 130px;
+    left: 153px;
+    top: 304px;
+}
+.star:hover{
+    transform: scale(1.2);
+}

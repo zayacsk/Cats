@@ -1,0 +1,35 @@
+.page_7{
+    display: none;
+    position: relative;
+    width: 422px;
+    height: 792px;
+    background: linear-gradient(201.39deg, #FC0000 36.71%, #FAFF03 83.67%);
+}
+.star_1{
+    position: absolute;
+    width: 244px;
+    height: 231px;
+    left: 88px;
+    top: 72px;
+}
+.butP7{
+    background: transparent;
+}
+.text_6{
+    position: absolute;
+    width: 254px;
+    height: 128px;
+    left: 79px;
+    top: 407px;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+    background-color: rgba(255, 0, 0, 0.59);
+}
+.star_1:hover{
+    transform: scale(1.2);
+}

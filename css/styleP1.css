@@ -1,0 +1,48 @@
+.page_1{
+    position: relative;
+    width: 432px;
+    height: 792px;
+    background: linear-gradient(197.36deg, rgba(255, 72, 215, 0.7) 0.96%, rgba(72, 255, 189, 0.616) 65.62%);
+    overflow: hidden;
+}
+.buttonPCat{
+    background: transparent;
+}
+.PCat{
+    position: absolute;
+    width: 287px;
+    height: 278px;
+    left: 49px;
+    top: 74px;
+}
+.PCat:hover {
+	transform: scale(1.2);
+}
+.buttonGreen{
+    background: transparent;
+}
+.greenAn{
+    position: absolute;
+    width: 251px;
+    height: 326px;
+    left: 49px;
+    top: 412px;
+}
+.greenAn:hover {
+	transform: scale(1.2);
+}
+.text_1{
+    position: absolute;
+    width: 571px;
+    height: 223px;
+    left: -120px;
+    bottom: -21.75px;
+    top: 412px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #000000;
+    transform: rotate(50deg);
+}

@@ -1,0 +1,33 @@
+.page_6{
+    display: none;
+    position: relative;
+    width: 422px;
+    height: 792px;
+    background: radial-gradient(50% 50% at 50% 50%, #F50000 0%, #FAFF03 100%);
+}
+.butP6{
+    position: absolute;
+    width: 339px;
+    height: 126px;
+    left: 37px;
+    top: 165px;
+    background: rgba(250, 255, 3, 0.56);
+}
+.text_5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: left;
+}
+.duck_2{
+    position: absolute;
+    width: 349px;
+    height: 414px;
+    left: 45px;
+    top: 320px;
+}
+.butP6:hover{
+    transform: scale(1.2);
+}
